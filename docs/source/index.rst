@@ -13,6 +13,8 @@ how to :ref:`installation` the project.
 
    This project is under active development.
    Lumache has its documentation hosted on Read the Docs.
+   
+   This bird is taking flight!
 
 Contents
 --------
