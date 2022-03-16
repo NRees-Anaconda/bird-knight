@@ -21,7 +21,7 @@ how to :ref:`installation` the project.
    
 This is a new section!
 ----------------------
-The birds have seen, the cats days are numbered. 
+The :ref: 'bird arsenal <bird-arsenal>' grows, the cats days are numbered. 
 
 Contents
 --------
