@@ -21,7 +21,7 @@ how to :ref:`installation` the project.
    
 Armament
 --------
-The :doc:`birds arsneal <bird-arsenal>` grows, the cats days are numbered. 
+:doc:`Take up the call! <bird-arsenal>` The arsenal grows, the cats days are numbered. 
 
 Contents
 --------
