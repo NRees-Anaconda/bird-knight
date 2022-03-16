@@ -19,9 +19,9 @@ how to :ref:`installation` the project.
 .. attention:: 
    This is a way to draw attention to something!
    
-This is a new section!
-----------------------
-The birds aresenal grows, the cats days are numbered. 
+Armament
+--------
+The :doc:`birds arsneal <bird-arsenal>` grows, the cats days are numbered. 
 
 Contents
 --------
